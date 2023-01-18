@@ -8,3 +8,7 @@ body {
     place-items: center;
     height: 100vh;
 }
+
+body{
+    border: 1px solid red;
+}
