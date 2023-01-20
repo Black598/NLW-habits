@@ -25,7 +25,7 @@ button{
     padding: 16px 24px;
     border-radius: 8px;
     border: 1px solid #8b5cf6;
-    background-color: transparent;
+  background-color: transparent;
     color: white;
 
     display: flex;
@@ -36,6 +36,21 @@ button{
     font-weight: 600;
     font-size: 16px;
     line-height: 125%;
+}
+
+button:hover{
+    
+    background-color:  #151518;
+    box-shadow: 2px 3px #666;
+    
+    
+}
+
+button:focus{
+    background-color: #151518;
+    box-shadow: 2px 1px #666;
+    transform: translateY(4px);
+    
 }
 
 form{
@@ -122,3 +137,4 @@ input:checked {
         display: none;
     }
 }
+
