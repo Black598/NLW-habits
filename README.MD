@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habtis é um app para ajudar a rastear os habitos.
 
-- [Acesse o projeto finalizado, online](https://)
+- [Acesse o projeto finalizado, online](https://black598.github.io/NLW-habits/)
 
 
 ## 🔖 Layout
