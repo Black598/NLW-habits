@@ -136,5 +136,20 @@ input:checked {
     button div{
         display: none;
     }
+
+    button:hover{
+    
+        background-color:  #151518;
+        box-shadow: 2px 3px #666;
+        
+        
+    }
+    
+    button:focus{
+        background-color: #151518;
+        box-shadow: 2px 1px #666;
+        transform: translateY(4px);
+        
+    }
 }
 
