@@ -76,15 +76,20 @@ form{
     width: 64px;
     height: 64px;
 
+    color: #fff;
+
     font-size: 32px;
     display: flex;
+    flex-direction: row;
+    gap: 5px;
+    
     align-items: center;
     justify-content: center;
 
 }
 .days{
     display: flex;
-    margin-left: 32px;
+    margin-left: 65px;
     gap: 48px;
 
 }
@@ -106,9 +111,6 @@ form{
 
     color: #A1A1AA;
     text-align: center;
-
-
-
 
 }
 input {
